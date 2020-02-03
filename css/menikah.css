@@ -321,6 +321,10 @@ color: #996E6D;
   color:white;
 }
 
+.has-vertically-align {
+  vertical-align: middle;
+}
+
 .footer {
   bottom: 0;
   width: 100vw;
@@ -329,14 +333,8 @@ color: #996E6D;
   text-align: center;
   vertical-align: middle;
   background: #c28285;
-  color: whitesmoke;
-  
+  color: whitesmoke;  
 }
-
-.has-vertically-align {
-  vertical-align: middle;
-}
-
 
 .footer p {
   color: white;
@@ -349,7 +347,7 @@ color: #996E6D;
 }
 
 .footer img{
-  margin: 10px 10px 10px 10px;
+  margin: 10px 0px 10px 10px;
   display: inline-block;
   max-height: 24px;
   vertical-align: middle;
