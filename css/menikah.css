@@ -103,7 +103,7 @@ html {
 
 .main-content .section-dark {
   background-color: #F4E2E2;
-  padding: 80px 80px 80px 80px;
+  padding: 80px 40px;
 }
 
 .main-content .section-dark.resume {
@@ -137,21 +137,21 @@ html {
 }
 
 .main-content .section-dark.my-work {
-  padding: 120px;
+  padding: 80px 40px;
 }
 
 .main-content .section-cashbac {
   background-color: rgb(238, 250, 253);
-  padding: 80px 80px 80px 80px; 
+  padding: 80px 40px; 
 }
 
 @media (max-width: 599px) {
-  .main-content .section-dark.my-work {
+  .main-content .section-dark.foto-foto {
     padding: 75px 20px;
   }
 }
 
-.main-content .section-dark.my-work .work-item {
+.main-content .section-dark.foto-foto .foto-item {
   margin-bottom: 1rem;
   -webkit-transition: all .1s ease-in-out;
   transition: all .1s ease-in-out;
@@ -173,7 +173,7 @@ html {
 }
 
 .main-content .section-light {
-  padding: 80px 80px 80px 80px;
+  padding: 80px 40px;
 }
 
 .main-content .section-light.about-me {
@@ -233,7 +233,7 @@ html {
 
 @media (max-width: 599px) {
   .main-content .section-light.contact {
-    padding: 80px 80px 80px 80px;
+    padding: 80px 40px;
   }
 }
 
@@ -457,7 +457,8 @@ body.preloader-site {
 }
 
 .cashbac-logo-inline {
-  width: 150px;
+  width: 160px;
+  vertical-align: middle;
 }
 
 .button-download {
