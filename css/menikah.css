@@ -254,12 +254,13 @@ html {
 }
 
 .main-content .section-title {
-  font-family: 'Rouge Script', sans-serif;
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
   color: #996E6D;
-  text-transform: titlecase;
-  font-size: 3.1rem;
+  text-transform: uppercase;
+  font-size: 1.5rem;
   letter-spacing: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 60px;
 }
 
 .nama-lengkap {
