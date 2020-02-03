@@ -237,18 +237,18 @@ html {
   }
 }
 
-.main-content .section-color.services {
+.main-content .section-color.pertanyaan {
   padding: 100px;
   background-color: #996E6D;
   color: white;
 }
 
-.main-content .section-color.services .title,
-.main-content .section-color.services .subtitle {
+.main-content .section-color.pertanyaan .title,
+.main-content .section-color.pertanyaan .subtitle {
   color: white;
 }
 
-.main-content .section-color.services i {
+.main-content .section-color.pertanyaan i {
   font-size: 3rem;
   padding: 20px;
 }
@@ -295,31 +295,6 @@ color: #996E6D;
   margin-bottom: 50px;
 }
 
-.btn-arah {
-  margin-top: 50px;
-  border: 2px solid #996E6D;
-  border-radius: 10px;
-  color:#996E6D;
-}
-
-.btn-arah:hover {
-  margin-top: 50px;
-  border: 2px solid #996E6D;
-  border-radius: 10px;
-  color:white;
-  background-color: #996E6D;
-}
-
-
-.fa-directions {
-  margin-right: 10px;
-  color:#996E6D;
-}
-
-.fa-directions:hover {
-  margin-right: 10px;
-  color:white;
-}
 
 .has-vertically-align {
   vertical-align: middle;
@@ -454,6 +429,36 @@ body.preloader-site {
   box-shadow: 0 2px 25px 0 rgba(30, 30, 30, 0.1);
 }
 
+
+.btn-arah {
+  color:#996E6D;
+  background-color: white;
+  font-size: 1.2rem;
+  border-radius: 10px;
+  border: 2px solid #996E6D;
+  width:  210px;
+  height: 65px;
+  align-items: center;
+  margin: 1rem;
+  -webkit-transition: all .1s ease-in-out;
+  transition: all .1s ease-in-out;
+}
+
+.btn-arah:hover {
+  background-color: #996E6D;
+  color: white;
+  font-size: 1.2rem;
+  border: 2px solid #996E6D;
+  border-radius: 10px;
+  align-items: center;
+  margin: 1rem;
+  -webkit-transform: scale(2.055) translateY(2px);
+  transform: scale(2.055) translateY(2px);
+  -webkit-box-shadow: 0 2px 25px 0 rgba(30, 30, 30, 0.1);
+  box-shadow: 0 2px 25px 0 rgba(30, 30, 30, 0.1);
+  
+}
+
 .cashbac-logo-inline {
   width: 160px;
   vertical-align: middle;
@@ -468,21 +473,21 @@ body.preloader-site {
 }
 
 .voucher-code {
-  height: 45px;
-  width: 160px;
+  height: 60px;
+  min-width: 140px;
   border: 2px solid #26ade4;
   border-radius: 10px 0 0 10px  ;
-  font-size: 20px;
+  font-size: 24px;
   padding: 15px;
 }
 
 .btn-voucher-code {
-  height: 45px;
-  width: 90px;
+  height: 60px;
+  min-width: 120px;
   border: 2px solid #26ade4;
   background-color: #26ade4;
   border-radius: 0 10px 10px 0;
-  font-size: 14px;
+  font-size: 20px;
   padding: 0;
   margin: 0;
   vertical-align: middle;
