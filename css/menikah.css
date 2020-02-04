@@ -32,8 +32,8 @@ html {
 .hero .title {
   font-family: 'Rouge Script', sans-serif;
   font-weight: 700;
-  transform: rotate(-3deg);
-  font-size: 8rem;
+  transform: rotate(-2deg);
+  font-size: 5rem;
   padding-bottom: 5px;
   color: whitesmoke;
 }
@@ -397,7 +397,7 @@ body.preloader-site {
 }
 
 
-.whatsapp-button {
+.btn-whatsapp {
   color: #6cc751;
   background-color: white;
   font-size: 1.2rem;
@@ -412,7 +412,7 @@ body.preloader-site {
 }
 
 
-.whatsapp-button:hover {
+.btn-whatsapp:hover {
   background-color: #6cc751;
   color: white;
   font-size: 1.2rem;
