@@ -29,6 +29,8 @@ html {
   font-family: 'Lato', sans-serif;
 }
 
+
+
 .hero .title {
   font-family: 'Rouge Script', sans-serif;
   font-weight: 700;
@@ -41,12 +43,12 @@ html {
 .hero .subtitle {
   padding: 35px;
   color: whitesmoke;
-  font-size: 1.7rem;
+  font-size: 1.3rem;
 }
 
 .hero .tempatwaktu {
   padding-top: 35px;
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   
 }
 
@@ -176,28 +178,28 @@ html {
   padding: 80px 40px;
 }
 
-.main-content .section-light.about-me {
+.main-content .section-light.regular-section {
   padding-bottom: 80px;
 }
 
-.main-content .section-light.about-me .is-larger {
+.main-content .section-light.regular-section .is-larger {
   font-size: 1.2rem;
 }
 
 @media (max-width: 599px) {
-  .main-content .section-light.about-me .about-links {
+  .main-content .section-light.regular-section .about-links {
     text-align: center;
   }
 }
 
-.main-content .section-light.about-me .right-image img {
+.main-content .section-light.regular-section .right-image img {
   border-radius: 11px;
   margin: 20px;
   box-shadow: 0 5px 20px rgba(14, 25, 80, 0.3);
 }
 
 @media (max-width: 599px) {
-  .main-content .section-light.about-me .right-image img {
+  .main-content .section-light.regular-section .right-image img {
     margin: auto;
   }
 }
@@ -266,15 +268,19 @@ html {
 .nama-lengkap {
   font-family: 'Rouge Script', sans-serif;
   color: #996E6D;
-  font-size: 4.1rem;
+  font-size: 3.5rem;
   letter-spacing: 0px;
   padding-bottom: 12px;
 }
 
 .ampersand {
-font-size: 5rem;
+font-size: 3.5rem;
 font-family: 'Rouge Script', sans-serif;
 color: #996E6D;
+}
+
+.bodytext {
+  font-size: 18px;
 }
 
 .waktu {
