@@ -413,8 +413,6 @@ body.preloader-site {
   height: 65px;
   align-items: center;
   margin: 1rem;
-  -webkit-transition: all .1s ease-in-out;
-  transition: all .1s ease-in-out;
 }
 
 
@@ -429,10 +427,7 @@ body.preloader-site {
   border-bottom: 1px solid #6cc751;
   align-items: center;
   margin: 1rem;
-  -webkit-transform: scale(2.055) translateY(2px);
-  transform: scale(2.055) translateY(2px);
-  -webkit-box-shadow: 0 2px 25px 0 rgba(30, 30, 30, 0.1);
-  box-shadow: 0 2px 25px 0 rgba(30, 30, 30, 0.1);
+
 }
 
 
@@ -446,8 +441,6 @@ body.preloader-site {
   height: 65px;
   align-items: center;
   margin: 1rem;
-  -webkit-transition: all .1s ease-in-out;
-  transition: all .1s ease-in-out;
 }
 
 .btn-arah:hover {
@@ -458,11 +451,6 @@ body.preloader-site {
   border-radius: 10px;
   align-items: center;
   margin: 1rem;
-  -webkit-transform: scale(2.055) translateY(2px);
-  transform: scale(2.055) translateY(2px);
-  -webkit-box-shadow: 0 2px 25px 0 rgba(30, 30, 30, 0.1);
-  box-shadow: 0 2px 25px 0 rgba(30, 30, 30, 0.1);
-  
 }
 
 .cashbac-logo-inline {
