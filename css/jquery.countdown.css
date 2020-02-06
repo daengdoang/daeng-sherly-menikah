@@ -9,13 +9,13 @@ ul#hitungmundur li {
 	display: inline-block;
 }
 ul#hitungmundur li span {
-	font-size: 40px;
+	font-size: 30px;
 	font-weight: 300;
-	line-height: 40px;
+	line-height: 30px;
 }
 ul#hitungmundur li.separator {
-	font-size: 40px;
-	line-height: 35px;
+	font-size: 30px;
+	line-height: 25px;
 	vertical-align: top;
 }
 ul#hitungmundur li p {
