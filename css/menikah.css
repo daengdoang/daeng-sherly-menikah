@@ -323,8 +323,11 @@ color: #996E6D;
   font-size: 10pt;
   display: inline-block;
   vertical-align: middle;
-  
+}
 
+
+.main-content .no-padding-top {
+  padding-top: 0px;
 }
 
 .footer img{
@@ -341,6 +344,14 @@ color: #996E6D;
 .fa-download {
   color: #43485c;
 }
+
+.divider {
+  margin: 25px;
+  display: inline-block;
+  max-height: 40px;
+  vertical-align: middle;
+}
+
 
 #toTop {
   height: 50px;
