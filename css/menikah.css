@@ -292,6 +292,7 @@ color: #996E6D;
   font-size: 5rem;
   font-family: 'Lato', sans-serif;
   font-weight: 900;
+  line-height: 1;
 }
 
 .tempat {
@@ -346,12 +347,18 @@ color: #996E6D;
 }
 
 .divider {
-  margin: 25px;
+  margin: 40px 25px;
   display: inline-block;
   max-height: 40px;
   vertical-align: middle;
 }
 
+.bismillah {
+  margin: 25px;
+  display: inline-block;
+  max-height: 50px;
+  vertical-align: middle;
+}
 
 #toTop {
   height: 50px;
