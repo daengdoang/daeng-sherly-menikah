@@ -108,6 +108,11 @@ html {
   padding: 80px 40px;
 }
 
+.main-content .section-darker {
+  background-color: #EDD2D1;
+  padding: 80px 40px;
+}
+
 .main-content .section-dark.resume {
   height: 400px;
   padding-top: 60px;
