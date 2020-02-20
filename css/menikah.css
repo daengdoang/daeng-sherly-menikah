@@ -485,8 +485,8 @@ body.preloader-site {
 }
 
 .voucher-code {
-  height: 60px;
-  min-width: 140px;
+  height: 55px;
+  max-width: 180px;
   border: 2px solid #26ade4;
   border-radius: 10px 0 0 10px  ;
   font-size: 24px;
@@ -494,8 +494,8 @@ body.preloader-site {
 }
 
 .btn-voucher-code {
-  height: 60px;
-  min-width: 120px;
+  height: 55px;
+  min-width: 100px;
   border: 2px solid #26ade4;
   background-color: #26ade4;
   border-radius: 0 10px 10px 0;
