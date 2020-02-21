@@ -16,6 +16,16 @@
 
 - Bulma CSS
 
-Check demo at: https://sherly-daeng-menikah.netlify.app/
+# Info
+- Live version check at: https://sherly.dae.ng/
+- Or check demo at: https://sherly-daeng-menikah.netlify.app/
+- Check my web at: https://daengdoang.com
 
-Check my web at: https://daengdoang.com
+# Fonts
+- Rouge Script
+- Raleway
+
+
+# Credits
+
+- To Freepik.com for Graphics Assets
