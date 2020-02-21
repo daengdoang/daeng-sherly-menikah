@@ -30,4 +30,4 @@
 
 # Credits
 
-- To Freepik.com for Graphics Assets
+- Floral vector created by BiZkettE1 - www.freepik.com (https://www.freepik.com/free-photos-vectors/background)
