@@ -19,6 +19,23 @@ html {
   padding-bottom: 30px;
 }
 
+.navbar-item {
+  line-height: 38px;
+  font-weight: 600;
+  text-transform: ;
+  letter-spacing: 1px;
+  font-size: 1rem;
+}
+
+.navbar-item.is-active{
+  border-bottom: 2px solid #996E6D;
+}
+
+.a.navbar-item{
+  font-color: #996E6D;
+}
+
+
 .hero {
   background-image: url(https://picsum.photos/id/25/1920/1080);
   background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.65)), rgba(0, 0, 0, 0.55) url("https://picsum.photos/id/381/1920/1080") no-repeat;
@@ -280,8 +297,8 @@ html {
   color: #996E6D;
   font-size: 3.5rem;
   letter-spacing: 0px;
-  padding-bottom: 6px;line-height: 2rem;
-  line-height: 3.4rem;
+  padding-bottom: 6px;
+  line-height: 3.7rem;
 }
 
 .ampersand {
@@ -535,3 +552,8 @@ body.preloader-site {
 .dusty-pink-darker {color: #BC8887}
 .dusty-pink-darkest {color: #996E6D}
 
+.foto-sherly-daeng {
+  border-radius: 10px;
+  max-width: 350px;
+  
+}
