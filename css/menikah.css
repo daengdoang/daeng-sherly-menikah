@@ -605,7 +605,7 @@ body.preloader-site {
   font-weight: 600;
   text-align: left;
   color: white;
-  bottom: 0;
+  align-self: end;
 }
 
 
@@ -614,5 +614,5 @@ body.preloader-site {
   margin-top: 20px;
   text-align: left;
   color: white;
-  bottom: 0;
+  align-self: end;
 }
