@@ -327,7 +327,7 @@ line-height: 5rem;
   text-align: center;
   vertical-align: middle;
   background: #c28285;
-  color: whitesmoke;  
+  color: whitesmoke;    
 }
 
 .footer p {
@@ -527,6 +527,7 @@ body.preloader-site {
 }
 .white
 {color:ghostwhite}
+
 
 .dusty-pink {color: #D8A9A8}
 .dusty-pink-lighter {color: #EDD2D1}
