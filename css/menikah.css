@@ -615,3 +615,10 @@ body.preloader-site {
   text-align: left;
   color: white;
 }
+
+.section-light {
+  background-image: url(../image/divider-flowers-leaves.png);
+  background-position: bottom -30px center;
+  background-repeat: no-repeat;
+  background-size: initial;
+}
