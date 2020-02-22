@@ -563,7 +563,7 @@ body.preloader-site {
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
-  min-height: 300px;
+  min-height: 400px;
 }
 
 
@@ -572,23 +572,23 @@ body.preloader-site {
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
-  min-height: 300px;
+  min-height: 400px;
 }
 
 .foto3 {
   background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-selfie.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: top;
   background-repeat:no-repeat;
-  min-height: 300px;
+  min-height: 400px;
 }
 
 .foto4 {
   background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-engagement-ami.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: top;
   background-repeat:no-repeat;
-  min-height: 300px;
+  min-height: 400px;
 }
 
 .foto5 {
@@ -596,7 +596,7 @@ body.preloader-site {
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
-  min-height: 300px;
+  min-height: 400px;
 }
 
 
