@@ -563,7 +563,7 @@ body.preloader-site {
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
-  min-height: 400px;
+  min-height: 24rem;
 }
 
 
@@ -572,7 +572,7 @@ body.preloader-site {
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
-  min-height: 400px;
+  min-height: 24rem;
 }
 
 .foto3 {
@@ -580,7 +580,7 @@ body.preloader-site {
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
-  min-height: 400px;
+  min-height: 24rem;
 }
 
 .foto4 {
@@ -588,7 +588,7 @@ body.preloader-site {
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
-  min-height: 400px;
+  min-height: 24rem;
 }
 
 .foto5 {
@@ -596,7 +596,7 @@ body.preloader-site {
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
-  min-height: 400px;
+  min-height: 24rem;
 }
 
 
@@ -621,4 +621,12 @@ body.preloader-site {
   background-position: bottom -30px center;
   background-repeat: no-repeat;
   background-size: initial;
+}
+
+.instagram {
+  color: #996E6D;
+  font-size: 1.25rem;
+  margin-top: 0.5rem;
+  display: inline-block;
+  text-align: center;
 }
