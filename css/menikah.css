@@ -120,6 +120,10 @@ html {
   height: 40px;
 }
 
+.space24px{
+  height: 24px;
+}
+
 .main-content {
   padding-top: 2rem;
   color: #000; 
@@ -586,7 +590,7 @@ body.preloader-site {
 }
 
 .foto4 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-engagement-ami.jpg");
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-lamaran.jpg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -602,16 +606,29 @@ body.preloader-site {
 }
 
 
+.foto6 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-engagement-ami.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat:no-repeat;
+  min-height: 24rem;
+}
+
+
+
 .title-foto {
-  font-size: 16pt;
-  font-weight: 900;
+  font-size: 18pt;
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
   text-align: left;
   color: white;
 }
 
 
 .subtitle-foto {
-  font-size: 12pt;
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 14pt;
   font-weight: 600;
   margin-top: 15px;
   text-align: left;
